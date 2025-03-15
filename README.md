@@ -1,6 +1,18 @@
 # e-commerce_Cars is the one with CLI 
 
+### Steps
+### 1st Step
+```
+git clone https://github.com/MoadVI/e-commerce
+```
+### 2nd step
+```
+cd e-commerce
+```
+
+
 # e-commerce Cars
+
 
 ## Project setup
 ```
