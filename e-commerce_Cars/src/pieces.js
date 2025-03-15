@@ -35,7 +35,7 @@ export default {
     }
   },
   mounted() {
-    fetch('pieces-autos.json')  // Make sure your JSON file is correctly named and located
+    fetch('pieces-autos.json') 
       .then(response => response.json())
       .then(data => {
         this.pieces = data;
