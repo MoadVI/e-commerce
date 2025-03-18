@@ -1,5 +1,14 @@
 # e-commerce_Cars is the one with CLI 
 
+### You can just run the following
+```
+git clone https://github.com/MoadVI/e-commerce
+cd e-commerce
+cd e-commerce_Cars
+npm install
+npm run serve
+
+```
 ### Steps
 ### 1st Step
 ```
