@@ -4,10 +4,12 @@
 ### 1st Step
 ```
 git clone https://github.com/MoadVI/e-commerce
+
 ```
 ### 2nd step
 ```
 cd e-commerce
+
 ```
 
 
@@ -17,16 +19,19 @@ cd e-commerce
 ## Project setup
 ```
 npm install
+
 ```
 
 ### Compiles and hot-reloads for development
 ```
 npm run serve
+
 ```
 
 ### Compiles and minifies for production
 ```
 npm run build
+
 ```
 
 ### Lints and fixes files
