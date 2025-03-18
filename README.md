@@ -9,6 +9,7 @@ git clone https://github.com/MoadVI/e-commerce
 ### 2nd step
 ```
 cd e-commerce
+cd e-commerce_Cars
 
 ```
 
